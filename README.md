@@ -12,6 +12,8 @@ Other functionality used are:
 * Game ending/restart when bird X/Y is out of the set range in the frame.
 * Spacebar required to keep bird "flying" on the screen.
 
+Play it live [here](jungle-dash.herokuapp.com)!
+
 ### To install
 
 To play this game in your local machine, do:
