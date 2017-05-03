@@ -1,5 +1,9 @@
 # Jungle Dash!
 
+![screen_1](https://raw.githubusercontent.com/j-rods/jungle-dash/master/screens/1.png =300×369)
+![screen_2](https://raw.githubusercontent.com/j-rods/jungle-dash/master/screens/2.png =300×369)
+![screen_2](https://raw.githubusercontent.com/j-rods/jungle-dash/master/screens/3.png =300×369)
+
 This is my attempt to recreate the famous flappy bird game. The game is built using the phaser HTML5 game framework. 
 I was particularly interested in learning a bit more about the phaser framework, as it gives all the tools for building games on the browser.
 
@@ -34,7 +38,7 @@ node node_modules/http-server/bin/http-server
 Open URL on browser(i.e 127.0.0.1:8080)
 The game will now be running on the browser.
 
-Press spacebar <kbd>SPACE</kbd> to fly through the vines. 
+Press spacebar <kbd>SPACE</kbd> to fly through the vines.
 
 ## Technologies used
 * Phaser HTML5 framework
