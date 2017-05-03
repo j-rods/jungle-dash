@@ -1,6 +1,6 @@
 # Jungle Dash!
 
-![screen_1](https://raw.githubusercontent.com/j-rods/jungle-dash/master/screens/1.png =300×369)
+![screen_1](https://raw.githubusercontent.com/j-rods/jungle-dash/master/screens/1.png)
 ![screen_2](https://raw.githubusercontent.com/j-rods/jungle-dash/master/screens/2.png =300×369)
 ![screen_2](https://raw.githubusercontent.com/j-rods/jungle-dash/master/screens/3.png =300×369)
 
